@@ -28,8 +28,15 @@ or another monospace typeface with good italics.
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Powerline style prompt
+* Cute pastel colors
+
+### Options:
+
+* Ruby version
+* VPN connection status (on OS X)
+* Virtualenv
+* Node version
 
 ## Screenshot
 
